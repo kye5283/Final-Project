@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <../include/solo.h>
-#include <../include/multiplayer.h>
+#include "../include/solo.h"
+#include "../include/multiplayer.h"
 int main(void)
 {
 	int a, b, i;
